@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+}
+
+h2 {
+  text-align: center;
+  color: #000000;
+}
+
+p {
+  text-align: center;
+  color: #4d4d4d;
+}
